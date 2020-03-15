@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Planner.Services
 {
-    class FirstService
+   public class FirstService
     {
     }
 }
